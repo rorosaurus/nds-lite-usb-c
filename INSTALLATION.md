@@ -12,6 +12,8 @@ I highly recommend you watch [makho's video](https://www.youtube.com/watch?v=Sog
 
 # Instructions
 
+The below pictures are from an older board revision, with only 1 half-circle. Your board is the same, you just have 2 half-circles to solder (for better reinforcement when plugging in).
+
 ## Step 1: Disassemble your Nintendo DS Lite and remove the motherboard
 
 You can follow [this iFixit guide](https://www.ifixit.com/Guide/Nintendo+DS+Lite+Motherboard+Replacement/4784) for good disassembly instructions.
