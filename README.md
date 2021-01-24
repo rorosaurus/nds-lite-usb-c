@@ -2,8 +2,8 @@
 
 # Where to Buy
 
-* USA - [Buy on Amazon]()
-* Any other Country - [Buy on Tindie]()
+* USA: [Buy on Amazon](https://smile.amazon.com/dp/B08RMTP1BL) - [(Why Amazon?)](https://github.com/rorosaurus/gba-sp-usb-c/blob/master/why-sell-on-amazon.md)
+* Any other Country: [Buy on Tindie](https://www.tindie.com/products/22542/) - (I will restock occasionally!)
 
 ## The truly universal USB-C dream is finally realized for your Nintendo DS Lite!
 
@@ -17,7 +17,7 @@ My PCB works with ````USB-C <-> USB-C```` cables as well, so you can use ANY USB
 
 This is designed for installation in any Nintendo DS Lite (USG-001).
 
-This is not compatible with the original (fat) Nintendo DS, NTR-001. ([My other mod for GBA-SP](https://github.com/rorosaurus/gba-sp-usb-c/], does work in the NTR-001.)
+This is not compatible with the original (fat) Nintendo DS, NTR-001. ([My other mod for GBA-SP](https://github.com/rorosaurus/gba-sp-usb-c/), does work in the NTR-001.)
 
 # Disclaimer
 
