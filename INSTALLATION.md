@@ -56,7 +56,7 @@ The view from the bottom will show the VGND holes are just *slightly* not lined 
 
 When you are confident with your positioning, I recommend soldering the 5V half circle pad to the VIN hole underneath. This makes it easy to tweak the position of the USB-C port, since the port itself won't be too hot to touch.
 
-If you want to reinforce the 5V and GND half circle pads with a [male pin header](https://commons.wikimedia.org/wiki/File:6_Pin_Header.jpg) or trimmed resistor leads like in the video, this is the time to do that. :)
+If you want to reinforce the 5V and GND half circle pads with trimmed resistor leads like in the install video, this is the time to do that. :) You could also use a [male pin header](https://commons.wikimedia.org/wiki/File:6_Pin_Header.jpg) (slide off the plastic shroud and trim).
 
 ![Attach 5V pin](https://github.com/rorosaurus/nds-lite-usb-c/blob/master/images/attach-5v-pin.jpg)
 
