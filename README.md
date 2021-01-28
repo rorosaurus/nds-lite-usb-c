@@ -19,6 +19,10 @@ This is designed for installation in any Nintendo DS Lite (USG-001).
 
 This is not compatible with the original (fat) Nintendo DS, NTR-001. ([My other mod for GBA-SP](https://github.com/rorosaurus/gba-sp-usb-c/), does work in the NTR-001.)
 
+# Charge Speed
+
+This console's original charger (USG-002) outputs up to 450mA at 5.2V. According to the USB-C spec, this mod will allow charging at up to 500mA at 5V. This mod will not result in any charging slowdown compared to the original charger.
+
 # Disclaimer
 
 Modify your console at your own risk! This product is provided "as is", with no warranty - express or implied. That said, if you have any issues or questions, don't hesitate to reach out!
